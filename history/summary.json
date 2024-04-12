@@ -76,19 +76,19 @@
     "url": "https://api.neurobagel.org/",
     "icon": "https://icons.duckduckgo.com/ip3/api.neurobagel.org.ico",
     "slug": "nb-public-node",
-    "status": "down",
-    "uptime": "98.59%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "status": "up",
+    "uptime": "34.82%",
+    "uptimeDay": "34.82%",
+    "uptimeWeek": "34.82%",
+    "uptimeMonth": "34.82%",
+    "uptimeYear": "34.82%",
+    "time": 15142,
+    "timeDay": 15142,
+    "timeWeek": 15142,
+    "timeMonth": 15142,
+    "timeYear": 15142,
     "dailyMinutesDown": {
-      "2024-04-12": 0
+      "2024-04-12": 13
     }
   }
 ]
