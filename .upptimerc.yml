@@ -17,6 +17,8 @@ sites:
     url: https://indi.neurobagel.org/
   - name: Neurobagel QPN node 
     url: http://206.12.89.194:8080/
+  - name: Digest dashboard
+    url: https://digest.neurobagel.org/
 
 
 status-website:
