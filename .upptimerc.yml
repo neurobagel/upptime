@@ -26,7 +26,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.neurobagel.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/neurobagel/documentation/main/docs/imgs/logo/neurobagel_logo.pnghttps://raw.githubusercontent.com/neurobagel/documentation/main/docs/imgs/logo/neurobagel_logo.png
+  logoUrl: https://raw.githubusercontent.com/neurobagel/upptime/main/assets/neurobagel_logo.svg
   name: Neurobagel
   introTitle: "**Neurobagel** is an ecosystem for secure, federated research data management."
   introMessage: This is a status page which uses **real-time** data from Neurobagel services. See also our [GitHub repositories](https://github.com/neurobagel).
