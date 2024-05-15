@@ -82,15 +82,15 @@
     "url": "https://api.neurobagel.org/",
     "icon": "https://icons.duckduckgo.com/ip3/api.neurobagel.org.ico",
     "slug": "neurobagel-open-neuro-node-https-api-neurobagel-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 490,
-    "timeDay": 372,
-    "timeWeek": 402,
+    "timeDay": 385,
+    "timeWeek": 408,
     "timeMonth": 490,
     "timeYear": 490,
     "dailyMinutesDown": {}
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/indi.neurobagel.org.ico",
     "slug": "neurobagel-indi-node-https-indi-neurobagel-org",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.19%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 557,
     "timeDay": 1777,
     "timeWeek": 974,
     "timeMonth": 557,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2024-05-15": 56,
+      "2024-05-15": 65,
       "2024-04-23": 191,
       "2024-04-17": 72
     }
@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/digest.neurobagel.org.ico",
     "slug": "digest-dashboard",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.84%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 330,
     "timeDay": 359,
     "timeWeek": 305,
     "timeMonth": 330,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-05-15": 56
+      "2024-05-15": 65
     }
   }
 ]
