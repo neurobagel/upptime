@@ -6,7 +6,7 @@ sites:
   - name: Website (https://neurobagel.org/)
     url: https://neurobagel.org/
   - name: Public federation API (https://federate.neurobagel.org/)
-    url: https://federate.neurobagel.org/
+    url: https://federate.neurobagel.org/docs
   - name: Public query tool (https://query.neurobagel.org/)
     url: https://query.neurobagel.org/
   - name: Annotation tool (https://annotate.neurobagel.org/)
