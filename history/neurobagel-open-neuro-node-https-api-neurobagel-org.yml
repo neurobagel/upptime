@@ -1,7 +1,7 @@
 url: https://api.neurobagel.org/
-status: up
-code: 200
-responseTime: 438
-lastUpdated: 2024-10-08T23:05:40.010Z
+status: down
+code: 521
+responseTime: 119
+lastUpdated: 2024-10-24T20:08:14.382Z
 startTime: 2024-04-17T14:29:09.234Z
 generator: Upptime <https://github.com/upptime/upptime>
