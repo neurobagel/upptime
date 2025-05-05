@@ -11,13 +11,13 @@ sites:
     url: https://query.neurobagel.org/
   - name: Annotation tool (https://annotate.neurobagel.org/)
     url: https://annotate.neurobagel.org/
-  - name: Neurobagel OpenNeuro node (https://api.neurobagel.org/)
-    url: https://api.neurobagel.org/
-  - name: Neurobagel INDI node (https://indi.neurobagel.org/)
-    url: https://indi.neurobagel.org/
-  - name: Neurobagel QPN node 
-    url: https://qpn.neurobagel.org/
-  - name: Digest dashboard
+  - name: Neurobagel OpenNeuro node (https://openneuro.neurobagel.org/node/)
+    url: https://openneuro.neurobagel.org/node/
+  - name: Neurobagel INDI node (https://indi.neurobagel.org/node/)
+    url: https://indi.neurobagel.org/node/
+  - name: Neurobagel QPN node (https://qpn.neurobagel.org/node/)
+    url: https://qpn.neurobagel.org/node/
+  - name: Digest dashboard (https://digest.neurobagel.org/)
     url: https://digest.neurobagel.org/
 
 
