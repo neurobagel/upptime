@@ -142,19 +142,19 @@
     "url": "https://digest.neurobagel.org/",
     "icon": "https://icons.duckduckgo.com/ip3/digest.neurobagel.org.ico",
     "slug": "digest-dashboard-https-digest-neurobagel-org",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 242,
-    "timeDay": 242,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "status": "up",
+    "uptime": "94.00%",
+    "uptimeDay": "94.00%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "94.00%",
+    "uptimeYear": "94.00%",
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-05-06": 0
+      "2025-05-06": 31
     }
   }
 ]
