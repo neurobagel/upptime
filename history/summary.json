@@ -24,7 +24,7 @@
     "url": "https://federate.neurobagel.org/docs",
     "icon": "https://icons.duckduckgo.com/ip3/federate.neurobagel.org.ico",
     "slug": "public-federation-api-https-federate-neurobagel-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -78,7 +78,7 @@
     "url": "https://openneuro.neurobagel.org/node/",
     "icon": "https://icons.duckduckgo.com/ip3/openneuro.neurobagel.org.ico",
     "slug": "neurobagel-open-neuro-node-https-openneuro-neurobagel-org-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -96,7 +96,7 @@
     "url": "https://indi.neurobagel.org/node/",
     "icon": "https://icons.duckduckgo.com/ip3/indi.neurobagel.org.ico",
     "slug": "neurobagel-indi-node-https-indi-neurobagel-org-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -114,9 +114,9 @@
     "url": "https://qpn.neurobagel.org/node/",
     "icon": "https://icons.duckduckgo.com/ip3/qpn.neurobagel.org.ico",
     "slug": "neurobagel-qpn-node-https-qpn-neurobagel-org-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,16 +125,18 @@
     "timeWeek": 228,
     "timeMonth": 299,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-26": 0
+    }
   },
   {
     "name": "Digest dashboard (https://digest.neurobagel.org/)",
     "url": "https://digest.neurobagel.org/",
     "icon": "https://icons.duckduckgo.com/ip3/digest.neurobagel.org.ico",
     "slug": "digest-dashboard-https-digest-neurobagel-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -144,6 +146,7 @@
     "timeMonth": 291,
     "timeYear": 290,
     "dailyMinutesDown": {
+      "2025-09-26": 0,
       "2025-05-07": 31,
       "2025-05-06": 31
     }
