@@ -24,7 +24,7 @@
     "url": "https://federate.neurobagel.org/docs",
     "icon": "https://icons.duckduckgo.com/ip3/federate.neurobagel.org.ico",
     "slug": "public-federation-api-https-federate-neurobagel-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
